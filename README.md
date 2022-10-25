@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obdurat&label=Profile%20views&color=0e75b6&style=flat" alt="obdurat" /> </p>
 
-<p align="center" display="flex"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obdurat" alt="obdurat" /></a> </p>
+<p width="100vw" display="flex"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obdurat" alt="obdurat" /></a> </p>
 
 - 🔭 I’m currently working on [Hair Sallon Dashboar](https://github.com/cassiusbessa/hairsallon-dashboard-admin)
 
